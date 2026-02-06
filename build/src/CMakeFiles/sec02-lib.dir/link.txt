@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsec02-lib.a "CMakeFiles/sec02-lib.dir/square.c.o"
+/usr/bin/ranlib libsec02-lib.a

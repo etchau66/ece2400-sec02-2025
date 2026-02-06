@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/etc66/ece2400-sec02-2025-1/build/src",
+  "command": "/usr/bin/cc  -I/home/etc66/ece2400-sec02-2025-1/include  -o CMakeFiles/sec02-lib.dir/square.c.o -c /home/etc66/ece2400-sec02-2025-1/src/square.c",
+  "file": "/home/etc66/ece2400-sec02-2025-1/src/square.c",
+  "output": "src/CMakeFiles/sec02-lib.dir/square.c.o"
+},
+{
+  "directory": "/home/etc66/ece2400-sec02-2025-1/build/src",
+  "command": "/usr/bin/cc  -I/home/etc66/ece2400-sec02-2025-1/include  -o CMakeFiles/square-adhoc.dir/square-adhoc.c.o -c /home/etc66/ece2400-sec02-2025-1/src/square-adhoc.c",
+  "file": "/home/etc66/ece2400-sec02-2025-1/src/square-adhoc.c",
+  "output": "src/CMakeFiles/square-adhoc.dir/square-adhoc.c.o"
+},
+{
+  "directory": "/home/etc66/ece2400-sec02-2025-1/build/src",
+  "command": "/usr/bin/cc  -I/home/etc66/ece2400-sec02-2025-1/include  -o CMakeFiles/avg-main.dir/avg-main.c.o -c /home/etc66/ece2400-sec02-2025-1/src/avg-main.c",
+  "file": "/home/etc66/ece2400-sec02-2025-1/src/avg-main.c",
+  "output": "src/CMakeFiles/avg-main.dir/avg-main.c.o"
+},
+{
+  "directory": "/home/etc66/ece2400-sec02-2025-1/build/src",
+  "command": "/usr/bin/cc  -I/home/etc66/ece2400-sec02-2025-1/include  -o CMakeFiles/avg3-main.dir/avg3-main.c.o -c /home/etc66/ece2400-sec02-2025-1/src/avg3-main.c",
+  "file": "/home/etc66/ece2400-sec02-2025-1/src/avg3-main.c",
+  "output": "src/CMakeFiles/avg3-main.dir/avg3-main.c.o"
+}
+]

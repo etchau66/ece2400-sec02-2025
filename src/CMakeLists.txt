@@ -8,3 +8,4 @@ target_link_libraries(square-adhoc PUBLIC
 )
 
 add_executable(avg-main avg-main.c)
+add_executable(avg3-main avg3-main.c)

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/square-adhoc.dir/square-adhoc.c.o" -o square-adhoc  libsec02-lib.a 

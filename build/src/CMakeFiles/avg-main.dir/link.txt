@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/avg-main.dir/avg-main.c.o" -o avg-main 

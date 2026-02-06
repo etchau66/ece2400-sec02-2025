@@ -1,0 +1,8 @@
+/home/etc66/ece2400-sec02-2025-1/build/CMakeFiles/edit_cache.dir
+/home/etc66/ece2400-sec02-2025-1/build/CMakeFiles/rebuild_cache.dir
+/home/etc66/ece2400-sec02-2025-1/build/src/CMakeFiles/sec02-lib.dir
+/home/etc66/ece2400-sec02-2025-1/build/src/CMakeFiles/square-adhoc.dir
+/home/etc66/ece2400-sec02-2025-1/build/src/CMakeFiles/avg-main.dir
+/home/etc66/ece2400-sec02-2025-1/build/src/CMakeFiles/avg3-main.dir
+/home/etc66/ece2400-sec02-2025-1/build/src/CMakeFiles/edit_cache.dir
+/home/etc66/ece2400-sec02-2025-1/build/src/CMakeFiles/rebuild_cache.dir
